@@ -19,6 +19,10 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.UUID;
 
 /**
+ * Web端登陆
+ *aasd
+ *
+ *
  * @program:hope-boot
  * @ClassName:WebController
  * @author:aodeng
